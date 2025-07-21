@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
 body {
   margin: 0px 50px;
-  font-family: "roboto";
+  font-family: 'Roboto';
 }
 h1 {
   color: rgb(255, 98, 25);
